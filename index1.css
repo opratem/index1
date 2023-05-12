@@ -1,0 +1,21 @@
+#ab{
+    background-color: blue;
+    color:white;
+    }
+
+div{
+    text-align: right;
+
+}
+
+#ag{ 
+    width: 500px;
+    height: 40px;
+    border-radius: 22px;
+    border-width: 1px;
+}
+h1{
+    font-size: 70px;
+    font-family: sans-serif;
+    color: blue;
+}
